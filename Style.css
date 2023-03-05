@@ -1,0 +1,57 @@
+
+#btn{
+    padding: 6px 14px;
+    width: auto;
+    font-size: 14px;
+    background-color: #0084ff;
+    color: white;
+    border-radius: 15px;
+    margin: 5px;
+    }
+    #btn:hover{
+        border: #0084ff;
+        color: #0084ff;
+        background-color: white;
+        cursor: pointer;
+      }
+
+     
+.Main{
+
+}
+
+.cards{
+    width: 32%;
+    background-color: white;
+    box-shadow: 2px 2px 10px white;
+    display: inline-block;
+    border: #0084ff;
+    border-bottom: #0084ff;
+    cursor: pointer;
+}
+
+.image img{
+    height: 176px;
+    width: 100%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.title{
+    font-size: 16px;
+    text-align: left;
+    margin: 0;
+    font-weight: 600;
+    padding: 10px 24px;
+
+}
+.content{
+    font-size: 14px;
+    font-weight: 400;
+    margin: 4px 0;
+    color: rgba(0,0,0,6);
+    padding: 10px 24px;
+}
+#foot{
+    font-size: 14px;
+    color: lightblue;
+}
